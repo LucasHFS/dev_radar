@@ -17,11 +17,11 @@
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## 💻 Projeto
+## 💻 Project
 
 DevRadar is a project that connects you to developers that live close and works with the same techs that You.
 
-## :rocket: Tecnologias
+## :rocket: Techs
 
 This project was made by the Following Techs:
 
